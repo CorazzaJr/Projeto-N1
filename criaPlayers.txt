@@ -1,0 +1,8 @@
+Player1|3
+Ámon|Fogo|380|Tempestade de fogo|40|Explosão solar|80
+Mut|Grama|280|Bola de folhas|50|Mordida|40
+Osíris|Água|280|Tsuname|50|Contra ataque de gelo|40
+Player2|3
+Seth|Fogo|300|Lança chamas|40|Vulcanismo|40
+Ísis|Grama|280|Poder do ventos|50|Rajada de grama|40
+Hórus|Água|310|Canhão de água|50|Explosão de  água|40
